@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "745251432433",
+      "project_id": "find-my-roommate-8d412",
+      "storage_bucket": "find-my-roommate-8d412.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:745251432433:android:f2bc4907a9595c1e1e8650",
+          "android_client_info": {
+            "package_name": "com.example.find_my_roommate"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "745251432433-aaajmag3mr1b46f9ufb76ui1mq1hijra.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDMfMc6QDBM8bphGQiXJ-ALWCTUdXBppik"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "745251432433-aaajmag3mr1b46f9ufb76ui1mq1hijra.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
